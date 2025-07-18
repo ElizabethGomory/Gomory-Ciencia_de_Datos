@@ -1,12 +1,15 @@
 # Gomory-Ciencia_de_Datos
 # Introducción a Python para Ciencia de Datos
 
-Este repositorio contiene la recolpilación de notebooks educativos creados por **Analía Elizabeth Gomory**, como parte de su formación en la Tecnicatura en Ciencia de Datos (Teclab) y su formación continua en Open Science.
+Repositorio educativo con contenido creado por Analía Elizabeth Gomory, como parte de su formación en la Tecnicatura en Ciencia de Datos (Teclab), Talleres Open Science e investigasiones basadas en intereses profesionales.
 
-## Contenido
+📁 Estructura del repositorio
 
-- `1.Introduccion_Python_Espanol.ipynb`: incluye fundamentos de Python para análisis de datos
-- Próximamente: notebooks sobre limpieza, visualización y modelado
+Introduccion_Teórica/: Cuadernos introductorios con fundamentos de Python y ciencia de datos.
+
+Proyectos_de_Práctica/: Proyectos realizados durante la tecnicatura.
+
+Prácticas_Profesionales/: Aplicaciones profesionales en ciencia de datos, vinculadas a minería, energía, medio ambiente, y más.
 
 ## Licencia
 
