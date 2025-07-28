@@ -7,7 +7,7 @@ Repositorio educativo con contenido creado por Analía Elizabeth Gomory, como pa
 
 Introduccion_Teórica/: Cuadernos introductorios con fundamentos de Python y ciencia de datos.
 
-Proyectos_de_Práctica/: Proyectos realizados durante la tecnicatura.
+Proyectos_de_Prácticas_e_Investigaciones/: Proyectos realizados durante la tecnicatura.
 
 Prácticas_Profesionales/: Aplicaciones profesionales en ciencia de datos, vinculadas a minería, energía, medio ambiente, y más.
 
