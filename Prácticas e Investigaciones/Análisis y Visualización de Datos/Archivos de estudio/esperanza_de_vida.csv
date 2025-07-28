@@ -1,0 +1,145 @@
+provincia,anio,mujeres,varones
+Buenos Aires,2015,80.22,73.54
+Buenos Aires,2020,81.34,74.74
+Buenos Aires,2025,82.32,75.8
+Buenos Aires,2030,83.2,76.76
+Buenos Aires,2035,83.98,77.6
+Buenos Aires,2040,84.66,78.32
+Catamarca,2015,80.36,74.74
+Catamarca,2020,81.45,75.78
+Catamarca,2025,82.45,76.7
+Catamarca,2030,83.32,77.55
+Catamarca,2035,84.08,78.28
+Catamarca,2040,84.75,78.91
+Chaco,2015,78.32,71.53
+Chaco,2020,79.71,73.03
+Chaco,2025,80.95,74.35
+Chaco,2030,82.05,75.52
+Chaco,2035,82.99,76.54
+Chaco,2040,83.83,77.45
+Chubut,2015,81.3,73.87
+Chubut,2020,82.28,75.05
+Chubut,2025,83.14,76.09
+Chubut,2030,83.92,77.02
+Chubut,2035,84.57,77.82
+Chubut,2040,85.16,78.53
+Capital Federal,2015,81.68,75.41
+Capital Federal,2020,82.6,76.36
+Capital Federal,2025,83.41,77.21
+Capital Federal,2030,84.14,77.96
+Capital Federal,2035,84.77,78.63
+Capital Federal,2040,85.33,79.21
+Córdoba,2015,80.67,74.07
+Córdoba,2020,81.72,75.2
+Córdoba,2025,82.66,76.2
+Córdoba,2030,83.49,77.1
+Córdoba,2035,84.22,77.88
+Córdoba,2040,84.86,78.57
+Corrientes,2015,79.28,73.28
+Corrientes,2020,80.54,74.55
+Corrientes,2025,81.68,75.67
+Corrientes,2030,82.65,76.64
+Corrientes,2035,83.53,77.52
+Corrientes,2040,84.27,78.28
+Entre Ríos,2015,80.46,72.97
+Entre Ríos,2020,81.54,74.25
+Entre Ríos,2025,82.51,75.39
+Entre Ríos,2030,83.36,76.39
+Entre Ríos,2035,84.11,77.28
+Entre Ríos,2040,84.77,78.06
+Formosa,2015,78.86,72.98
+Formosa,2020,80.25,74.37
+Formosa,2025,81.48,75.56
+Formosa,2030,82.51,76.59
+Formosa,2035,83.41,77.5
+Formosa,2040,84.18,78.29
+Jujuy,2015,79.84,73.67
+Jujuy,2020,81.11,74.98
+Jujuy,2025,82.21,76.13
+Jujuy,2030,83.13,77.1
+Jujuy,2035,83.94,77.92
+Jujuy,2040,84.63,78.64
+La Pampa,2015,80.91,74.57
+La Pampa,2020,81.92,75.66
+La Pampa,2025,82.84,76.6
+La Pampa,2030,83.65,77.43
+La Pampa,2035,84.34,78.16
+La Pampa,2040,84.97,78.83
+La Rioja,2015,80.14,73.93
+La Rioja,2020,81.29,75.11
+La Rioja,2025,82.29,76.13
+La Rioja,2030,83.19,77.06
+La Rioja,2035,83.95,77.87
+La Rioja,2040,84.64,78.56
+Mendoza,2015,80.78,74.91
+Mendoza,2020,81.84,75.94
+Mendoza,2025,82.76,76.85
+Mendoza,2030,83.58,77.65
+Mendoza,2035,84.3,78.37
+Mendoza,2040,84.93,78.99
+Misiones,2015,79.42,72.77
+Misiones,2020,80.67,74.11
+Misiones,2025,81.77,75.3
+Misiones,2030,82.76,76.33
+Misiones,2035,83.6,77.24
+Misiones,2040,84.35,78.04
+Neuquén,2015,81.97,75.43
+Neuquén,2020,82.85,76.39
+Neuquén,2025,83.65,77.23
+Neuquén,2030,84.33,78
+Neuquén,2035,84.93,78.66
+Neuquén,2040,85.46,79.25
+Río Negro,2015,80.8,74.94
+Río Negro,2020,81.85,75.97
+Río Negro,2025,82.76,76.88
+Río Negro,2030,83.58,77.68
+Río Negro,2035,84.3,78.38
+Río Negro,2040,84.93,79
+Salta,2015,79.9,73.45
+Salta,2020,81.1,74.72
+Salta,2025,82.17,75.85
+Salta,2030,83.09,76.83
+Salta,2035,83.91,77.68
+Salta,2040,84.6,78.42
+San Juan,2015,79.63,74.25
+San Juan,2020,80.85,75.4
+San Juan,2025,81.93,76.39
+San Juan,2030,82.88,77.28
+San Juan,2035,83.7,78.04
+San Juan,2040,84.44,78.72
+San Luis,2015,80.75,74.63
+San Luis,2020,81.8,75.69
+San Luis,2025,82.74,76.62
+San Luis,2030,83.56,77.46
+San Luis,2035,84.27,78.21
+San Luis,2040,84.9,78.84
+Santa Cruz,2015,80.83,73.2
+Santa Cruz,2020,81.89,74.45
+Santa Cruz,2025,82.79,75.57
+Santa Cruz,2030,83.6,76.54
+Santa Cruz,2035,84.31,77.42
+Santa Cruz,2040,84.95,78.18
+Santa Fe,2015,80.58,73.03
+Santa Fe,2020,81.65,74.3
+Santa Fe,2025,82.6,75.43
+Santa Fe,2030,83.44,76.43
+Santa Fe,2035,84.18,77.31
+Santa Fe,2040,84.82,78.09
+Santiago del Estero,2015,79.57,72.76
+Santiago del Estero,2020,80.83,74.13
+Santiago del Estero,2025,81.95,75.35
+Santiago del Estero,2030,82.92,76.42
+Santiago del Estero,2035,83.76,77.33
+Santiago del Estero,2040,84.48,78.13
+Tierra del Fuego,2015,81.28,75.61
+Tierra del Fuego,2020,82.2,76.44
+Tierra del Fuego,2025,83.05,77.29
+Tierra del Fuego,2030,83.84,78.08
+Tierra del Fuego,2035,84.54,78.66
+Tierra del Fuego,2040,85.14,79.27
+Tucumán,2015,79.85,73.92
+Tucumán,2020,81.05,75.11
+Tucumán,2025,82.11,76.15
+Tucumán,2030,83.03,77.07
+Tucumán,2035,83.84,77.88
+Tucumán,2040,84.54,78.58
